@@ -7,7 +7,7 @@
 #
 Name     : pypi-jupyter_lsp
 Version  : 2.2.5
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/85/b4/3200b0b09c12bc3b72d943d923323c398eff382d1dcc7c0dbc8b74630e40/jupyter-lsp-2.2.5.tar.gz
 Source0  : https://files.pythonhosted.org/packages/85/b4/3200b0b09c12bc3b72d943d923323c398eff382d1dcc7c0dbc8b74630e40/jupyter-lsp-2.2.5.tar.gz
 Summary  : Multi-Language Server WebSocket proxy for Jupyter Notebook/Lab server
